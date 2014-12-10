@@ -1,0 +1,11 @@
+{
+  "name": "Testing-Sequelize",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "jasmine": "^2.0.1",
+    "jasmine-node": "^2.0.0",
+    "pg": "3.0.3",
+    "sequelize": "2.0.0-rc3"
+  }
+}
